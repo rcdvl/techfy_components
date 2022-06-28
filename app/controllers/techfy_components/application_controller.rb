@@ -1,0 +1,4 @@
+module TechfyComponents
+  class ApplicationController < ActionController::Base
+  end
+end
